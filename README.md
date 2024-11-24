@@ -2,6 +2,9 @@
 
 - Notifications service API.
 
+## Requirements
+- Node.js 20.17
+
 ## Project setup
 
 ```bash
@@ -20,6 +23,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## UML
+![Diagram representing the API's core patterns](public/notifications-api.drawio.png)
 
 ## Stay in touch
 
